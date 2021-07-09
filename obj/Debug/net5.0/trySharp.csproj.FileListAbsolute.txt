@@ -1,0 +1,21 @@
+C:\Users\Younis\source\repos\trySharp\trySharp\bin\Debug\net5.0\trySharp.exe
+C:\Users\Younis\source\repos\trySharp\trySharp\bin\Debug\net5.0\trySharp.deps.json
+C:\Users\Younis\source\repos\trySharp\trySharp\bin\Debug\net5.0\trySharp.runtimeconfig.json
+C:\Users\Younis\source\repos\trySharp\trySharp\bin\Debug\net5.0\trySharp.runtimeconfig.dev.json
+C:\Users\Younis\source\repos\trySharp\trySharp\bin\Debug\net5.0\trySharp.dll
+C:\Users\Younis\source\repos\trySharp\trySharp\bin\Debug\net5.0\ref\trySharp.dll
+C:\Users\Younis\source\repos\trySharp\trySharp\bin\Debug\net5.0\trySharp.pdb
+C:\Users\Younis\source\repos\trySharp\trySharp\obj\Debug\net5.0\trySharp.csprojAssemblyReference.cache
+C:\Users\Younis\source\repos\trySharp\trySharp\obj\Debug\net5.0\trySharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Younis\source\repos\trySharp\trySharp\obj\Debug\net5.0\trySharp.AssemblyInfoInputs.cache
+C:\Users\Younis\source\repos\trySharp\trySharp\obj\Debug\net5.0\trySharp.AssemblyInfo.cs
+C:\Users\Younis\source\repos\trySharp\trySharp\obj\Debug\net5.0\trySharp.csproj.CoreCompileInputs.cache
+C:\Users\Younis\source\repos\trySharp\trySharp\obj\Debug\net5.0\trySharp.dll
+C:\Users\Younis\source\repos\trySharp\trySharp\obj\Debug\net5.0\ref\trySharp.dll
+C:\Users\Younis\source\repos\trySharp\trySharp\obj\Debug\net5.0\trySharp.pdb
+C:\Users\Younis\source\repos\trySharp\trySharp\obj\Debug\net5.0\trySharp.genruntimeconfig.cache
+C:\Users\Younis\source\repos\trySharp\trySharp\bin\Debug\net5.0\Spectre.Console.dll
+C:\Users\Younis\source\repos\trySharp\trySharp\bin\Debug\net5.0\Wcwidth.dll
+C:\Users\Younis\source\repos\trySharp\trySharp\obj\Debug\net5.0\trySharp.csproj.CopyComplete
+C:\Users\Younis\source\repos\trySharp\trySharp\bin\Debug\net5.0\Logic Math.dll
+C:\Users\Younis\source\repos\trySharp\trySharp\bin\Debug\net5.0\Logic Math.pdb

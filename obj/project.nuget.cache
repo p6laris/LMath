@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GiQniqA6dfDVORgHPDdBskAgiMLGT+H7iEcQyhySeb7aRtVoRuiBhkkNBSdNJKZPtb7ybPW9LzpZsm1R/eQwNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Younis\\source\\repos\\trySharp\\trySharp\\trySharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Younis\\.nuget\\packages\\spectre.console\\0.39.0\\spectre.console.0.39.0.nupkg.sha512",
+    "C:\\Users\\Younis\\.nuget\\packages\\wcwidth\\0.2.0\\wcwidth.0.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

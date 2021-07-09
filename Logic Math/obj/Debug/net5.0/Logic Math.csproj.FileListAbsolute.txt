@@ -1,0 +1,12 @@
+C:\Users\Younis\source\repos\trySharp\Logic Math\bin\Debug\net5.0\Logic Math.deps.json
+C:\Users\Younis\source\repos\trySharp\Logic Math\bin\Debug\net5.0\Logic Math.dll
+C:\Users\Younis\source\repos\trySharp\Logic Math\bin\Debug\net5.0\ref\Logic Math.dll
+C:\Users\Younis\source\repos\trySharp\Logic Math\bin\Debug\net5.0\Logic Math.pdb
+C:\Users\Younis\source\repos\trySharp\Logic Math\obj\Debug\net5.0\Logic Math.csprojAssemblyReference.cache
+C:\Users\Younis\source\repos\trySharp\Logic Math\obj\Debug\net5.0\Logic Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Younis\source\repos\trySharp\Logic Math\obj\Debug\net5.0\Logic Math.AssemblyInfoInputs.cache
+C:\Users\Younis\source\repos\trySharp\Logic Math\obj\Debug\net5.0\Logic Math.AssemblyInfo.cs
+C:\Users\Younis\source\repos\trySharp\Logic Math\obj\Debug\net5.0\Logic Math.csproj.CoreCompileInputs.cache
+C:\Users\Younis\source\repos\trySharp\Logic Math\obj\Debug\net5.0\Logic Math.dll
+C:\Users\Younis\source\repos\trySharp\Logic Math\obj\Debug\net5.0\ref\Logic Math.dll
+C:\Users\Younis\source\repos\trySharp\Logic Math\obj\Debug\net5.0\Logic Math.pdb
